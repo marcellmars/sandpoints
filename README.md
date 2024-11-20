@@ -9,4 +9,4 @@ the name? not necessary explanation but if we need one:
 
 for now, this repo is a placeholder. the actual development is maintained at:
 
-https://git.sandpoints.org/Drawwell/
+https://dev.sandpoints.org/Drawwell/
